@@ -40,13 +40,6 @@ wiki-quiz/
 └── README.md
 ```
 
-## Prerequisites
-
-- **Python 3.10+**
-- **Node.js 18+** (for frontend)
-- **PostgreSQL** (or MySQL) - Database
-- **Gemini API Key** - Get one from [Google AI Studio](https://makersuite.google.com/app/apikey)
-
 ## Setup Instructions
 
 ### Backend Setup
@@ -213,14 +206,7 @@ The application handles:
 - Database connection issues
 - Missing or malformed data
 
-## Bonus Features Implemented
 
-- ✅ **Caching**: Prevents duplicate scraping of the same URL
-- ✅ **URL Validation**: Validates Wikipedia URLs before processing
-- ✅ **Scraped Content Storage**: Stores raw scraped content in database
-- ✅ **Clean UI**: Modern, responsive design with Tailwind CSS
-- ✅ **Loading States**: Visual feedback during processing
-- ✅ **Error Messages**: User-friendly error handling
 
 ## Technologies Used
 
